@@ -1,0 +1,1 @@
+# Template to create new games
